@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Backend, ASP.Net, Azure**
 
-- 👨‍💻 All of my projects are available at [https://arunsh52.github.io/Portfolio/](https://arunsh52.github.io/Portfolio/)
-
+<!-- - 👨‍💻 All of my projects are available at [https://arunsh52.github.io/Portfolio/](https://arunsh52.github.io/Portfolio/) -->
+- 👨‍💻 All of my projects are available at [Portfolio](https://arunsh52.github.io/Portfolio/)
 - 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **arunsharma13810@gmail.com**
